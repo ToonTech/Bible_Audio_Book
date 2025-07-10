@@ -2,43 +2,43 @@ Playlist: Esther (Word of Promise)
 Total Videos: 10
 ==================================================
 
-1. Esther 1 - NKJV - (Audio Bible & Text)
-   URL: https://www.youtube.com/watch?v=dkHy5KyIBH8
-   Duration: 318 seconds
+01. Esther 1 - NKJV - (Audio Bible & Text)
+    URL: https://www.youtube.com/watch?v=dkHy5KyIBH8
+    Duration: 318 seconds
 
-2. Esther 2 - NKJV - (Audio Bible & Text)
-   URL: https://www.youtube.com/watch?v=2Kbn0_YdQkU
-   Duration: 357 seconds
+02. Esther 2 - NKJV - (Audio Bible & Text)
+    URL: https://www.youtube.com/watch?v=2Kbn0_YdQkU
+    Duration: 357 seconds
 
-3. Esther 3 - NKJV - (Audio Bible & Text)
-   URL: https://www.youtube.com/watch?v=QfNMq_3KjNA
-   Duration: 250 seconds
+03. Esther 3 - NKJV - (Audio Bible & Text)
+    URL: https://www.youtube.com/watch?v=QfNMq_3KjNA
+    Duration: 250 seconds
 
-4. Esther 4 - NKJV - (Audio Bible & Text)
-   URL: https://www.youtube.com/watch?v=NwPp2ZI18Ag
-   Duration: 241 seconds
+04. Esther 4 - NKJV - (Audio Bible & Text)
+    URL: https://www.youtube.com/watch?v=NwPp2ZI18Ag
+    Duration: 241 seconds
 
-5. Esther 5 - NKJV - (Audio Bible & Text)
-   URL: https://www.youtube.com/watch?v=us2CduHLkP4
-   Duration: 212 seconds
+05. Esther 5 - NKJV - (Audio Bible & Text)
+    URL: https://www.youtube.com/watch?v=us2CduHLkP4
+    Duration: 212 seconds
 
-6. Esther 6 - NKJV - (Audio Bible & Text)
-   URL: https://www.youtube.com/watch?v=TVMveJTh7yY
-   Duration: 216 seconds
+06. Esther 6 - NKJV - (Audio Bible & Text)
+    URL: https://www.youtube.com/watch?v=TVMveJTh7yY
+    Duration: 216 seconds
 
-7. Esther 7 - NKJV - (Audio Bible & Text)
-   URL: https://www.youtube.com/watch?v=nPhy5KGXHUM
-   Duration: 188 seconds
+07. Esther 7 - NKJV - (Audio Bible & Text)
+    URL: https://www.youtube.com/watch?v=nPhy5KGXHUM
+    Duration: 188 seconds
 
-8. Esther 8 - NKJV - (Audio Bible & Text)
-   URL: https://www.youtube.com/watch?v=6LmFWgKpX3Y
-   Duration: 302 seconds
+08. Esther 8 - NKJV - (Audio Bible & Text)
+    URL: https://www.youtube.com/watch?v=6LmFWgKpX3Y
+    Duration: 302 seconds
 
-9. Esther 9 - NKJV - (Audio Bible & Text)
-   URL: https://www.youtube.com/watch?v=fTiq3AJmKWM
-   Duration: 455 seconds
+09. Esther 9 - NKJV - (Audio Bible & Text)
+    URL: https://www.youtube.com/watch?v=fTiq3AJmKWM
+    Duration: 455 seconds
 
 10. Esther 10 - NKJV - (Audio Bible & Text)
-   URL: https://www.youtube.com/watch?v=lvyudBJHyUo
-   Duration: 51 seconds
+    URL: https://www.youtube.com/watch?v=lvyudBJHyUo
+    Duration: 51 seconds
 
