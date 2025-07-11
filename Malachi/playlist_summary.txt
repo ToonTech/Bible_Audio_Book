@@ -2,19 +2,19 @@ Playlist: Malachi  (Word of Promise)
 Total Videos: 4
 ==================================================
 
-1. Malachi 1 - NKJV  (Audio Bible & Text)
-   URL: https://www.youtube.com/watch?v=jgMJmyf1B3Q
-   Duration: 224 seconds
+01. Malachi 1 - NKJV  (Audio Bible & Text)
+    URL: https://www.youtube.com/watch?v=jgMJmyf1B3Q
+    Duration: 224 seconds
 
-2. Malachi 2 - NKJV (Audio Bible & Text)
-   URL: https://www.youtube.com/watch?v=60FsJW28h7o
-   Duration: 236 seconds
+02. Malachi 2 - NKJV (Audio Bible & Text)
+    URL: https://www.youtube.com/watch?v=60FsJW28h7o
+    Duration: 236 seconds
 
-3. Malachi 3 - NKJV (Audio Bible & Text)
-   URL: https://www.youtube.com/watch?v=QnfA1vtKdLg
-   Duration: 259 seconds
+03. Malachi 3 - NKJV (Audio Bible & Text)
+    URL: https://www.youtube.com/watch?v=QnfA1vtKdLg
+    Duration: 259 seconds
 
-4. Malachi 4 - NKJV (Audio Bible & Text)
-   URL: https://www.youtube.com/watch?v=rckZqSCV_Ic
-   Duration: 105 seconds
+04. Malachi 4 - NKJV (Audio Bible & Text)
+    URL: https://www.youtube.com/watch?v=rckZqSCV_Ic
+    Duration: 105 seconds
 

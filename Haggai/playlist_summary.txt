@@ -2,11 +2,11 @@ Playlist: Haggai (Word of Promise)
 Total Videos: 2
 ==================================================
 
-1. Haggai 1 - NKJV (Audio Bible & Text)
-   URL: https://www.youtube.com/watch?v=2x0DLpHm3qE
-   Duration: 199 seconds
+01. Haggai 1 - NKJV (Audio Bible & Text)
+    URL: https://www.youtube.com/watch?v=2x0DLpHm3qE
+    Duration: 199 seconds
 
-2. Haggai 2 - NKJV (Audio Bible & Text)
-   URL: https://www.youtube.com/watch?v=Hz55POPjIcQ
-   Duration: 290 seconds
+02. Haggai 2 - NKJV (Audio Bible & Text)
+    URL: https://www.youtube.com/watch?v=Hz55POPjIcQ
+    Duration: 290 seconds
 
