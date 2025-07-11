@@ -2,19 +2,19 @@ Playlist: Jonah (Word of Promise)
 Total Videos: 4
 ==================================================
 
-1. Jonah 1 - NKJV (Audio Bible & Text)
-   URL: https://www.youtube.com/watch?v=H-84DUef-eo
-   Duration: 291 seconds
+01. Jonah 1 - NKJV (Audio Bible & Text)
+    URL: https://www.youtube.com/watch?v=H-84DUef-eo
+    Duration: 291 seconds
 
-2. Jonah 2 - NKJV (Audio Bible & Text)
-   URL: https://www.youtube.com/watch?v=ynL4nafUNfw
-   Duration: 147 seconds
+02. Jonah 2 - NKJV (Audio Bible & Text)
+    URL: https://www.youtube.com/watch?v=ynL4nafUNfw
+    Duration: 147 seconds
 
-3. Jonah 3 - NKJV (Audio Bible & Text)
-   URL: https://www.youtube.com/watch?v=wvw6OdadEm8
-   Duration: 150 seconds
+03. Jonah 3 - NKJV (Audio Bible & Text)
+    URL: https://www.youtube.com/watch?v=wvw6OdadEm8
+    Duration: 150 seconds
 
-4. Jonah 4 - NKJV (Audio Bible & Text)
-   URL: https://www.youtube.com/watch?v=k1M5Rtz9XAU
-   Duration: 191 seconds
+04. Jonah 4 - NKJV (Audio Bible & Text)
+    URL: https://www.youtube.com/watch?v=k1M5Rtz9XAU
+    Duration: 191 seconds
 
