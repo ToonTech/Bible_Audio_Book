@@ -1,0 +1,53 @@
+{
+  "episodes": [
+    {
+      "title": "Who Is Jesus?",
+      "chapter": "1",
+      "image": "assets/images/Frame 29-6.png",
+      "audio": "https://raw.githubusercontent.com/ToonTech/Bible_Audio_Book/main/Podcasts/Episode%201.wav",
+      "transcript": "https://raw.githubusercontent.com/ToonTech/Bible_Audio_Book/main/Podcasts/Episode%201.vtt"
+    },
+    {
+      "title": "Rediscovering the Real Jesus",
+      "chapter": "2",
+      "image": "assets/images/Frame 29-21.png",
+      "audio": "https://raw.githubusercontent.com/ToonTech/Bible_Audio_Book/main/Podcasts/Episode%202.wav",
+      "transcript": "https://raw.githubusercontent.com/ToonTech/Bible_Audio_Book/main/Podcasts/Episode%202.vtt"
+    },
+    {
+      "title": "Why I Believe",
+      "chapter": "3",
+      "image": "assets/images/Frame 29-10.png",
+      "audio": "https://raw.githubusercontent.com/ToonTech/Bible_Audio_Book/main/Podcasts/Episode%203.wav",
+      "transcript": "https://raw.githubusercontent.com/ToonTech/Bible_Audio_Book/main/Podcasts/Episode%203.vtt"
+    },
+    {
+      "title": "Living Jesus' Love",
+      "chapter": "4",
+      "image": "assets/images/Frame 29-1.png",
+      "audio": "https://raw.githubusercontent.com/ToonTech/Bible_Audio_Book/main/Podcasts/Episode%204.wav",
+      "transcript": "https://raw.githubusercontent.com/ToonTech/Bible_Audio_Book/main/Podcasts/Episode%204.vtt"
+    },
+    {
+      "title": "Jesus on Anxiety",
+      "chapter": "5",
+      "image": "assets/images/Frame 29-8.png",
+      "audio": "https://raw.githubusercontent.com/ToonTech/Bible_Audio_Book/main/Podcasts/Episode%205.wav",
+      "transcript": "https://raw.githubusercontent.com/ToonTech/Bible_Audio_Book/main/Podcasts/Episode%205.vtt"
+    },
+    {
+      "title": "Changed by his Love",
+      "chapter": "6",
+      "image": "assets/images/Frame 29-7.png",
+      "audio": "https://raw.githubusercontent.com/ToonTech/Bible_Audio_Book/main/Podcasts/Episode%206.wav",
+      "transcript": "https://raw.githubusercontent.com/ToonTech/Bible_Audio_Book/main/Podcasts/Episode%206.vtt"
+    },
+    {
+      "title": "Catholic vs Protestant",
+      "chapter": "7",
+      "image": "assets/images/Frame 29-3.png",
+      "audio": "https://raw.githubusercontent.com/ToonTech/Bible_Audio_Book/main/Podcasts/Episode%207.wav",
+      "transcript": "https://raw.githubusercontent.com/ToonTech/Bible_Audio_Book/main/Podcasts/Episode%207.vtt"
+    }
+  ]
+}
